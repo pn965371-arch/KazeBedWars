@@ -1,2 +1,4 @@
 prefix: "&8[&aKazeBedWars&8] &r"
 no-permission: "&cVocê não tem permissão para isso."
+player-only: "&cEste comando só pode ser usado por jogadores."
+reload: "&aAs configurações foram recarregadas com sucesso!"
