@@ -1,0 +1,7 @@
+settings:
+  server-name: "KAZE"
+  lobby-world: "world"
+  lobby-location: "0.5, 100, 0.5, 0, 0"
+  min-players-to-start: 2
+  countdown-seconds: 10
+  respawn-seconds: 5
