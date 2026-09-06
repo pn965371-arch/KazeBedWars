@@ -46,7 +46,7 @@
         </dependency>
         <dependency>
             <groupId>com.github.decentsoftware-eu</groupId>
-            <artifactId>decentholograms-api</artifactId>
+            <artifactId>decentholograms</artifactId>
             <version>2.8.9</version>
             <scope>provided</scope>
         </dependency>
