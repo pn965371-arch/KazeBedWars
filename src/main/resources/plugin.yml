@@ -1,0 +1,20 @@
+name: KazeBedWars
+version: 1.0.0
+main: com.kaze.bedwars.KazeBedWars
+api-version: '1.21'
+load: STARTUP
+author: Kaze Network
+commands:
+  bw:
+    description: Comando principal do Kaze BedWars
+    aliases: [bedwars, bw]
+  party:
+    description: Gerenciamento de parties
+    aliases: [p, turma]
+permissions:
+  kazebedwars.admin:
+    description: Permissão para gerenciar arenas e configurações
+    default: op
+  kazebedwars.vip:
+    description: Permissões VIP para comandos e bônus
+    default: false
